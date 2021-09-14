@@ -1,0 +1,51 @@
+<! DOCTYPE html> 
+<html lang="pt-br">
+>cabeça <
+ <título>página de login</> de título
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta nome="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.0/css/bulma.min.css" integrity="sha512-ADrqa2PY1TZtb/MoLZIZu/Z/LlPaWQeDMBV73EMwjGam43/JJ5fqW38Rq8LJOVGCDfrJeOMS3Q/wRUVzW5DkjQ==" crossorigin="anônimo" />
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0PSriVlkMXe40PTKNXrLnZ9+fkDaog==" crossorigin="anônimo" />
+ <link rel="stylesheet" href="estilo.css">
+   </>
+</cabeça>
+>do corpo<
+ < classeprincipal ="herói é-fullheight">
+ < classede seção =" > de corpo de herói
+ < classediv ="recipiente">
+ < classediv ="colluns é centrado">
+ < classediv ="coluna é meia-desktop">
+ < classediv ="campo">
+ < classep ="controle tem-ícones-esquerda tem-ícones-direita">
+ < classede entrada =" tipo deentrada" tipo="texto" espaço reservado="Usuário" id="usuario">
+ < classespan ="ícone é-pequeno é-esquerda">
+ < aula="fas fa-usuário-tie"></i>
+ > de</ span
+                            </p>
+                        </div>
+ < classediv ="campo">
+ < classep ="controle tem-ícones-esquerda">
+ < classede entrada ="digite "digite="senha" placeholder="Senha" id="senha">
+ < classespan ="ícone é-pequeno é-esquerda">
+ < aula="fas fa-lock"></i>
+ > de</ span
+                        </p>
+                    </div>
+ < classediv ="campo">
+ < classep ="controle">
+
+ <botão onclick="logar()" classe="botão é-sucesso">
+                            Login
+ </> de botões
+                    </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+ </seção>
+ </principal>
+
+
+</> corporal
+</html>
